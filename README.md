@@ -1,4 +1,4 @@
 # test
 
-conflict text
+new text
 different text
